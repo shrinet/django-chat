@@ -1,0 +1,6 @@
+.djvenv 
+djvenv/
+
+*.pyc
+__pycache__
+db.sqlite3
